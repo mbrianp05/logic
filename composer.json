@@ -1,0 +1,19 @@
+{
+    "name": "mbrianp/logic",
+    "description": "Some useful methods for controllers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian",
+            "email": "mbrianp05@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mbrianp\\FuncCollection\\Logic\\": ""
+        }
+    }
+}
